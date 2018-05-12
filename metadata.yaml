@@ -1,0 +1,32 @@
+_repo: Lost-Lenore--The-Adventures-of-a-Rolling-Stone_35443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+title: 'Lost Lenore: The Adventures of a Rolling Stone'
+url: http://www.gutenberg.org/ebooks/35443
